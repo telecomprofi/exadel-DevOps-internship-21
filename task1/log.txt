@@ -1,0 +1,39 @@
+commit 57144a7fb7b79bd2f569dd5f7c232acb7a126087
+Author: Ihor Ko <telecomprofi@gmail.com>
+Date:   Wed Jun 9 21:23:55 2021 +0300
+
+    added ./task1/status.txt
+
+commit ad79f909ac8ea2bcb0f0317e861071df58ea819c
+Author: Ihor Ko <telecomprofi@gmail.com>
+Date:   Wed Jun 9 21:22:27 2021 +0300
+
+    add .gitignore
+
+commit f4c8ed3c35ed31384d4bb6cc0824e12b6ab49f88
+Author: Ihor Ko <telecomprofi@gmail.com>
+Date:   Wed Jun 9 21:08:59 2021 +0300
+
+    Revert "added .gitignore"
+    
+    This reverts commit 732550bd34210827a188a65f70f34fb2bf2f3095.
+
+commit 30f07db55663794cfb786850bcf79dd3c60ca70a
+Author: Ihor Ko <telecomprofi@gmail.com>
+Date:   Wed Jun 9 21:05:24 2021 +0300
+
+    Revert "added task1/status.txt"
+    
+    This reverts commit c6283928a6a498a4d3b489859cb479b4b6dc47f0.
+
+commit c6283928a6a498a4d3b489859cb479b4b6dc47f0
+Author: Ihor Ko <telecomprofi@gmail.com>
+Date:   Wed Jun 9 20:59:35 2021 +0300
+
+    added task1/status.txt
+
+commit 732550bd34210827a188a65f70f34fb2bf2f3095
+Author: Ihor Ko <telecomprofi@gmail.com>
+Date:   Wed Jun 9 20:57:38 2021 +0300
+
+    added .gitignore
