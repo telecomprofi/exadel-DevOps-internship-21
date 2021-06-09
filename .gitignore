@@ -1,5 +1,0 @@
-# Gitignore for idea IDE
-*.iml
-.DS_Store/
-.idea/
-out/
