@@ -7,9 +7,12 @@ This repo hosts set of practice tasks for aspiring SRE (aka engineer who impleme
 * Deadline is 10/06/2021
 
 ### Task2 - AWS/Clouds 
-*
-*
-*
+* register at AWS
+* spin off two EC2 instances
+* install on one of them nginx/apache web server
+* host static web page
+* some extra stuff
+* [Link to task2](https://github.com/telecomprofi/exadel-DevOps-internship-21/tree/main/task2/)
 
 ### Task3 - tba
 *
