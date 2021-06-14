@@ -4,8 +4,8 @@
 * installation on one of them web-server
 * serving static web-page from one of them
 ## Task2 Result:
-   EC2 instance1: Ubuntu Linux http://18.116.32.222/index.html
-   EC2 instance2: Amazon Linux 3.140.193.49
+   * EC2 instance1: Ubuntu Linux http://18.116.32.222/index.html
+   * EC2 instance2: Amazon Linux 3.140.193.49
 
 ### extra tasks:
 1. Create them in two different VPCs - work in progress
