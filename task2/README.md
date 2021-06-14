@@ -23,6 +23,8 @@ echo "Hello World!" >> index.html
 echo "<br>" >> index.html
 echo $(grep -oP '(?<=^PRETTY_NAME=).+' /etc/os-release | tr -d '"') >> index.html
 echo "<br>" >> index.html
+echo $(uname -a) >> index.html
+echo "<br>" >> index.html
 </code></pre>
 
 ### Result Extra tasks 2. and 3:  EC2 Instance3: http://18.222.46.70/index.html
