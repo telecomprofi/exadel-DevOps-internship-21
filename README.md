@@ -13,6 +13,7 @@ This repo hosts set of practice tasks for aspiring SRE (aka engineer who impleme
 * host static web page
 * some extra stuff
 * [Link to task2](https://github.com/telecomprofi/exadel-DevOps-internship-21/tree/main/task2/)
+* Deadline is 14/06/2021
 
 ### Task3 - tba
 *
