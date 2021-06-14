@@ -21,7 +21,7 @@ cd /var/www/html
 touch index.html
 echo "Hello World!" >> index.html
 echo "<br>" >> index.html
-echo echo $(grep -oP '(?<=^PRETTY_NAME=).+' /etc/os-release | tr -d '"') >> index.html
+echo $(grep -oP '(?<=^PRETTY_NAME=).+' /etc/os-release | tr -d '"') >> index.html
 #wget http://telecomprofi.xyz/index.html
 </code></pre>
 
