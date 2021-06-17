@@ -3,11 +3,18 @@
 * extra task: installation of docker engine with bash script
 * [docker-ce-install.sh] (https://github.com/telecomprofi/exadel-DevOps-internship-21/blob/634f022093d60813a7f9fcc5c91dda6a91f6caae/task3/docker-ce-install.sh)
 ## Task3 Result:
-   * EC2 instance1: Ubuntu Linux with docker engine  http://telecomprofi.xyz<tba>
-   
+   * EC2 instance1: Ubuntu Linux with docker engine & running container [EC2 url] (http://telecomprofi.xyz/index.html)
+   * Dockerhub public image [telecomprofi/sandbox2021] (https://hub.docker.com/r/telecomprofi/sandbox2021/)
+   * usage 
+<pre><code>
+</code></pre>
+docker pull docker pull telecomprofi/sandbox2021:v2 
+docker run -d -p 80:80  -e DEVOPS=<your name goes here>   
+</code></pre>
 ### extra tasks:
 3.x 
 3.x
 3.x
 
-### Result Extra 3.x <tba> 
+### Result Extra 3.x 
+ [telecomprofi/sandbox2021] (https://hub.docker.com/r/telecomprofi/sandbox2021/)
