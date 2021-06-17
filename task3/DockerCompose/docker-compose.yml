@@ -1,0 +1,11 @@
+services:
+  web:
+    build: .
+    ports:
+      - "80:80"
+    volumes:
+      - .:/code
+  mysqld:
+    image: mysql
+  java:
+    image: maven101
