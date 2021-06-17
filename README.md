@@ -15,7 +15,7 @@ This repo hosts set of practice tasks for aspiring SRE (aka engineer who impleme
 * [Link to task2](https://github.com/telecomprofi/exadel-DevOps-internship-21/tree/main/task2/)
 * Deadline is 14/06/2021
 
-### Task3 - tba
+### Task3 - Docker install, build image, push to docker hub 
 * install Docker & rung hello world container
 * create Docker image with web-server inside, serve static page with specific text & env variable
 * register at docker hub
