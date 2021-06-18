@@ -1,5 +1,0 @@
-FROM nginx:alpine
-COPY . /usr/share/nginx/html
-ENV DEVOPS=Ihor Ko
-RUN ash -c 'echo -e {DEVOPS} >> /usr/share/nginx/html/index.html  && echo -e '<br>' >> /usr/share/nginx/html/index.html &&'
-~
