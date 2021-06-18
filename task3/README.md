@@ -2,6 +2,11 @@
 * installation of docker engine on AWS EC2 instance
 * extra task: installation of docker engine with bash script
 * [docker-ce-install.sh] (https://github.com/telecomprofi/exadel-DevOps-internship-21/blob/634f022093d60813a7f9fcc5c91dda6a91f6caae/task3/docker-ce-install.sh)
+* Creaitng Dockerhub autobuid on repo push (Github -> Dockerhub)
+* Creating Docker Compose for 5 containers, web, java, db
+* deploying compise to VM
+
+
 ## Task3 Result:
    * EC2 instance1: Ubuntu Linux with docker engine & running container [EC2 url] (http://telecomprofi.xyz/index.html)
    * Dockerhub public image [telecomprofi/sandbox2021] (https://hub.docker.com/r/telecomprofi/sandbox2021/)
