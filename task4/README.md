@@ -12,7 +12,7 @@
 <pre><code>
 #! /bin/bash
 # some code goes here
-<code><pre>
+</code></pre>
 
 ### Result Extra tasks 4
 *  EC2 Instance3: http://18.222.46.70/index.html
