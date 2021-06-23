@@ -1,0 +1,17 @@
+---
+- hosts: web
+  remote_user: ubuntu
+  tasks:
+    - name: create dir for nginx
+    file:
+    path: /opt/nginx/www
+    state: directory
+    - name: install nginx latest version
+     apt:
+     name: nginx
+     state: latest
+    - name: start nginx
+     services:
+     name: nginx
+     state: started
+
