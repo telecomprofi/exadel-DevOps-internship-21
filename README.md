@@ -24,6 +24,20 @@ This repo hosts set of practice tasks for aspiring SRE (aka engineer who impleme
 * [Link to task3](https://github.com/telecomprofi/exadel-DevOps-internship-21/tree/main/task3/)
 * Deadline is 17/06/2021 19:00 GMT+2
 
+### Task4 - Ansible for beginners, install LAMP stack on EC2 with playbook
+* install ansible on controller node
+* create inventory & playbook
+* <tba> 
+* [Link to task4 dir](https://github.com/telecomprofi/exadel-DevOps-internship-21/tree/main/task4/)
+* Deadline is 22/06/2021 19:00 GMT+2
+  
+### Task5 - Jenkins
+* install Jenkins on cloud VM
+* create freestyle project
+* <tba> 
+* [Link to task5 dir](https://github.com/telecomprofi/exadel-DevOps-internship-21/tree/main/task5/)
+* Deadline is 26/06/2021 19:00 GMT+2
+  
 
 
 # Header
