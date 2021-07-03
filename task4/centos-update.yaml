@@ -1,0 +1,10 @@
+---
+- name: Update Centos with sudo yum update
+  hosts: web
+  become: true
+
+  tasks: 
+  - name: sudo yum update
+    yum:
+      name: '*'
+      state: latest
