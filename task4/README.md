@@ -20,7 +20,8 @@
   
 ###  Some notes
   * Good source for basic nginx install on ubuntu & copying index.html/css files:
-  [article ](https://medium.com/@dbouchare/basic-setup-of-nginx-on-an-ec2-instance-with-ansible-f469af7f56c3 "Basic setup of nginx on an EC2 instance with Ansible")
+  [article ](https://medium.com/@dbouchare/basic-setup-of-nginx-on-an-ec2-instance-with-ansible-f469af7f56c3 
+   "Basic setup of nginx on an EC2 instance with Ansible")
   
   
   * EC2 AMI Linux2 won't let you install nginx with yum install nginx:
