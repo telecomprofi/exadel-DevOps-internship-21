@@ -25,13 +25,13 @@
   
   * EC2 AMI Linux2 won't let you install nginx with yum install nginx:
   you hve to first install extras:
-  
+<pre><code>
     nginx is available in Amazon Linux Extra topic "nginx1"
     To use, run
     # sudo amazon-linux-extras install nginx1
     Learn more at
     https://aws.amazon.com/amazon-linux-2/faqs/#Amazon_Linux_ExtrasError: Nothing to donon-zero return code
-
+</code></pre>
   * its good idea to update AMI linux with sudo yum update first before exposing it to internet
   
   First Header | Second Header
